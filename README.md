@@ -24,11 +24,4 @@ Si no estamos registrados en la base de datos, dando click en el boton "Registra
 
 Puedes cambiar los roles de los usuarios desde la base de datos
 
-
-
-
-
-
-
-
-
+<img src="https://github.com/SoilentDot/UsersXDatabases/assets/116817915/382fe049-578d-44c2-be5b-3db93771da7f" width="500">
