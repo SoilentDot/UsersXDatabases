@@ -9,6 +9,8 @@ Angel Eduardo Arce Gaxiola   - 222212688
 Este proyecto está relacionado con la base de datos, por lo que usaremos HeidiSQL para administrarla y MariaDM para la creacion del servidor de la base de datos.<br>
 **Nota:** El proyecto esta limitado a ejecutarse en local porque no tenemos los conocimientos necesarios para ejecutarlo en web 😭.
 
+La base de datos está incluida en la descarga, solo hay que importarla a HeidiSQL.
+
 JDK del proyecto: openjdk version "17.0.7"
 
 **Al ejecutarse**<br>
